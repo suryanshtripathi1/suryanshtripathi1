@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suryanshtripathi1
-- 👀 I’m interested in coding, cloud, python, C
-- 🌱 I’m currently learning google cloud.
-- 💞️ I’m looking to collaborate on coding projects.
+- 👀 I’m interested in coding, web development, python
+- 🌱 I’m currently learning backend development.
+- 💞️ I’m looking to collaborate on web development projects.
 - 📫 How to reach me: Mail- suryanshtripathi2021@gmail.com
 
 <!---
